@@ -1,4 +1,16 @@
-body {background-color: beige;
-    color:deepskyblue;
-    font-size: 25px;}
-.main-header {color: black}
+body {
+  background-color: beige;
+  color: deepskyblue;
+  font-size: 25px;
+}
+.main-header {
+  color: black;
+}
+h1,
+h2 {
+  background-color: white;
+}
+.background {
+  background-image: url();
+  padding: 10px 5px;
+}
